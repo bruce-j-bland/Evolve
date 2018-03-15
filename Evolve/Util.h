@@ -1,3 +1,8 @@
+//
+// Utility functions
+// Includes some optimization for Perlin Noise regeneration, as well as some randomness convinience functions
+//
+
 #pragma once
 
 #include <math.h>

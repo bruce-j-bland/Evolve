@@ -1,3 +1,8 @@
+//
+// The symbolic expression grammar
+// Unlike in Karl Sims' paper, all functions map scalar tupples to scalars. There are no vectors
+//
+
 #pragma once
 
 #include <string>

@@ -1,3 +1,7 @@
+//
+// Image is used to convert symbolic expressions into pixel maps for rendering
+//
+
 #pragma once
 #include "Scalar.h"
 #include <SDL.h>
